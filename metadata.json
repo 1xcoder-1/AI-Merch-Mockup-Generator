@@ -1,0 +1,5 @@
+{
+  "name": "AI Merch Mockup Generator",
+  "description": "Upload your logo, place it on merchandise, and use AI text prompts to edit the mockup. Generate print-ready files with Gemini.",
+  "requestFramePermissions": []
+}
